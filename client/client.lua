@@ -123,7 +123,7 @@ RegisterNetEvent("midozmedic", function()
 		end	
 	end
 	local playerinfo = GetPlayerServerId(PlayerId())
-	TriggerServerEvent('midoz:discordlog', data.current.value, playerinfo)
+	TriggerServerEvent('midoz:discordlog', data.current.label, playerinfo)
 end)
 
 end)
