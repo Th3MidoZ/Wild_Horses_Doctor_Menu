@@ -19,13 +19,21 @@ Includes Webhooks logs
 
 Everything is almost editable in config.lua
 
+![config](https://github.com/Th3MidoZ/midoz/assets/147892293/c7d3eb53-908b-4115-91e2-5f1220bed7bb)
+
+
 ---
 
 Requirements
 VORP_Menu (Important) or menu doctor will not work
+
 VORP_Core (optional) if you will not use webhook
+
 VORP_Character (Important) unless you will edit server.lua to match your Character Framework
-https://github.com/VORPCORE/VORP-Character
+--
 https://github.com/VORPCORE/vorp_menu
+
+https://github.com/VORPCORE/VORP-Character
+
 https://github.com/VORPCORE/VORP-Core
 
