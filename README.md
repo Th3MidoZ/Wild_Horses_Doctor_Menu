@@ -1,3 +1,5 @@
+MidoZ_Horses
+---
 Before using the script make sure to edit config.lua
 
 Script to Spawn Wild Horses with a command only can be used by admins or allowed groups in config.lua
@@ -17,9 +19,13 @@ Includes Webhooks logs
 
 Everything is almost editable in config.lua
 
+---
+
 Requirements
-VORP_Menu (important) or menu doctor will not work
+VORP_Menu (Important) or menu doctor will not work
 VORP_Core (optional) if you will not use webhook
+VORP_Character (Important) unless you will edit server.lua to match your Character Framework
+https://github.com/VORPCORE/VORP-Character
 https://github.com/VORPCORE/vorp_menu
 https://github.com/VORPCORE/VORP-Core
 
