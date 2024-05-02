@@ -14,7 +14,8 @@ Menu for Doctors or jobs you choose in config.lua to spawn horses with (gold cor
 
 Includes Webhooks logs
 
-![loga](https://github.com/Th3MidoZ/midoz/assets/147892293/36c6ea25-db5b-4735-a4ca-80ff6687daa9)
+![loga](https://github.com/Th3MidoZ/Wild_Horses_Doctor_Menu/assets/147892293/a7d93cb3-aa9d-4f09-8077-313bb76bbc5b)
+
 
 
 Everything is almost editable in config.lua
