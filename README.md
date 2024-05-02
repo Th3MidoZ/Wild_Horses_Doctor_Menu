@@ -25,11 +25,13 @@ Everything is almost editable in config.lua
 ---
 
 Requirements
+
 VORP_Menu (Important) or menu doctor will not work
 
 VORP_Core (optional) if you will not use webhook
 
 VORP_Character (Important) unless you will edit server.lua to match your Character Framework
+
 --
 https://github.com/VORPCORE/vorp_menu
 
