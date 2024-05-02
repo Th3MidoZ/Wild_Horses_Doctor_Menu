@@ -20,7 +20,7 @@ RegisterServerEvent('midoz:admincheck', function()
         VORPcore.NotifyRightTip(source, Config.Msg, 4000)
         end
     end
-    DiscordLog(string.format(Character.firstname .. ' ' .. Character.lastname .. ' ' .. 'Has used command /mhorses'))
+    DiscordLog(string.format(Character.firstname .. ' ' .. Character.lastname .. ' ' .. 'has used' .. ' ' .. Config.Spawncmd))
 end)
 
 
